@@ -28,6 +28,6 @@ Ce projet permet d'allumer une Led à distance depuis internet.
 
 ## __Acheter les composants__
 
-[esp](https://hackspark.fr/fr/266-esp32)
+[esp32](https://hackspark.fr/fr/266-esp32)
 
 [led](https://hackspark.fr/fr/electronique/400-8mm-red-led.html)
